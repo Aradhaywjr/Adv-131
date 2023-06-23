@@ -1,0 +1,12 @@
+.style
+{
+    background-color: white;
+    color: black;
+    font-size: x-large;
+    box-shadow: 2px black;
+    border-radius: 28px;
+    border: 2px solid white;
+    height: 40px;
+    width:1000px;
+    cursor: pointer;
+}
